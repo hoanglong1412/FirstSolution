@@ -7,3 +7,5 @@ namespace FirstSolution.WebApp.Models
         public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
     }
 }
+
+// test git2
